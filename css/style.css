@@ -1,0 +1,25 @@
+body {
+     background-color: #eaf6f6;
+}
+
+hr {
+     border-style: none;
+     border-top-style: dotted;
+     border-color: grey;
+     border-width: 2px;
+     width: 5%;
+}
+
+img {
+     height: 200px;
+}
+h1{
+    color: #66bfbf;
+    font-family: 'Times New Roman', Times, serif;
+    }
+h3{
+    color:#3f9494;
+    font-style: oblique;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
