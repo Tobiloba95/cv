@@ -1,5 +1,5 @@
 body {
-     background-color: #eaf6f6;
+     background-color:mintcream;
 }
 
 hr {
@@ -22,4 +22,7 @@ h3{
     font-style: oblique;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
+}
+.circular{
+     border-radius: 100%;
 }
